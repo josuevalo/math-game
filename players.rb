@@ -1,4 +1,4 @@
-class Players
+class Player
   attr_accessor :num_lives
 def lives
   num_lives = 3
